@@ -15,11 +15,6 @@
 
 
 
-#### Code Inspector
-<a>
-<img src=https://www.code-inspector.com/project/27931/score/svg />
-<img src=https://www.code-inspector.com/project/27931/status/svg />
-</a> 
 
 
 #### Code Badges
@@ -46,10 +41,6 @@
 | `3_Implementation` | All code and documentation|
 | `4_Testplan`      | Documents with test plans and procedures|
 |  `Images`       | Project Images |
-## Contributors List and Summary
-|PS no. |  Name   |    Features    |No Test Cases|Test Case Pass|
-|-------|---------|----------------|-------------|--------------|
-| `99005858` | Aditi Iyer | Add, Edit, Delete and View Cosmetics |  1   |  1 |
 
 
 ## Challenges Faced and How Was It Overcome
@@ -57,10 +48,6 @@
 1. Debugging
 2. Makefiles
 
-## Learning Resources
-1. [StockManagement](https://itsourcecode.com/free-projects/c-projects/stock-management-system-project-in-c-with-source-code/)
-2. [git inspector](https://github.com/ejwa/gitinspector.git)
-3. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
 
 

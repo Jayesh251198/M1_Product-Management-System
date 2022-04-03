@@ -8,20 +8,20 @@
 
 * Cosmetic Products can be added, deleted and viewed.
 
-# SDLC Activity Based Learning
+
+
+# Badges
 
 #### Codacy 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2db3fa5f4a9444edb0caaff2f663b9eb)](https://www.codacy.com/gh/aditi-iyer/Stepin_ProductManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aditi-iyer/Stepin_ProductManagementSystem&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b63991f058804b7e87601ce99237f481)](https://www.codacy.com/gh/Jayesh251198/M1_Product-Management-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jayesh251198/M1_Product-Management-System&amp;utm_campaign=Badge_Grade)
 
 
 
 
 
-#### Code Badges
+####  Codiga
+![Quality](https://api.codiga.io/project/32569/score/svg)
 
-|Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
-|:------:|:--:|:--:|:--:|:--:|:--:|
-|![C/C++ CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml/badge.svg)|![Unit Testing](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml/badge.svg)|![Code Quality -Cppcheck](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml/badge.svg)|[![CodeQuality-Valgrind](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml)|![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)|![Git Inspector](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml/badge.svg)|
 
 
   
